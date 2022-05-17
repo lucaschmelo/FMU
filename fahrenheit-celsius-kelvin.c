@@ -7,7 +7,7 @@ int main(){
 
     for (f=50;f<=65;f++){
         printf("....................................\n");
-        printf("Farenheit = %d",f);
+        printf("Fahrenheit = %d",f);
 
         c=0.56*(f-32);
         k=c+273.15;
